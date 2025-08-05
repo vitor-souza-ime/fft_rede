@@ -77,5 +77,3 @@ H5: 300 Hz - Magnitude: 0.0500
 
 
 
-Se quiser, posso ajudar a preparar arquivos adicionais, como `.gitignore`, ou instruções para rodar em Jupyter Notebook!
-```
